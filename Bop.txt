@@ -1,2 +1,6 @@
 Boop
+<<<<<<< HEAD
 da boop is very stong with dis one!
+=======
+da boop is not stong with dis one!
+>>>>>>> 7477ae3cf3fb0ff5f9aef7d4663d91597a7ba4dd
