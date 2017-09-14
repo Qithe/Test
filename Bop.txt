@@ -1,2 +1,7 @@
 Boop
+<<<<<<< HEAD
 The Local is not strong with this one
+=======
+The Local is strong with this one
+boooooooop
+>>>>>>> d3e55ab0673d4b40b4cf3c5e4f09a409b653879c
